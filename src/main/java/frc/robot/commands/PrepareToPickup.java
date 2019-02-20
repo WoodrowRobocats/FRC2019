@@ -11,6 +11,7 @@ import edu.wpi.first.wpilibj.command.CommandGroup;
 
 /**
  * Make sure the robot is in a state to pickup soda cans.
+ * Test modification for revision control
  */
 public class PrepareToPickup extends CommandGroup {
   /**
